@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st    #importing the library
 from googletrans import Translator
 
 st.header('Machine Translation Demo')
